@@ -1,0 +1,6 @@
+{
+  "name": "CertPilot — Certificate Generator & Bulk Emailer",
+  "description": "CertPilot is an automated certificate generation and personalized email delivery platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
